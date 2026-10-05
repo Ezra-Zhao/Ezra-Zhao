@@ -6,6 +6,8 @@
 
 I build applied AI systems that ship: LLM agents for hardware diagnostics, IT operations and customer service, plus computer-vision systems for safety and agriculture.
 
+🎬 YouTube: [@ezra-zhao](https://www.youtube.com/@ezra-zhao) — project explainers in 中文 / English / Español / Português / हिन्दी
+
 ## Stats
 
 ![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezra-Zhao&show_icons=true&theme=default)
