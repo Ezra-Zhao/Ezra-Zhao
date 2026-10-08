@@ -8,6 +8,18 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 
 🎬 YouTube: [@ezra-zhao](https://www.youtube.com/@ezra-zhao) — project explainers in 中文 / English / Español / Português / हिन्दी
 
+## ❤️ Support my work
+
+Everything I publish — code, cheatsheets, hymns, study notes — is free and open source.
+If it helped you, consider [sponsoring me](https://github.com/sponsors/Ezra-Zhao) ☕
+
+Your sponsorship goes to server & API costs and more hours of free, clean-room work.
+Every sponsor is listed below (opt out anytime).
+
+### Supporters
+
+<!-- sponsors will be listed here -->
+
 ## Stats
 
 ![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezra-Zhao&show_icons=true&theme=default)
