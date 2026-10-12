@@ -54,7 +54,7 @@ Every sponsor is listed below (opt out anytime).
 
 ## Also on my bench
 
-- **Agri-Agent / Ops-Agent / Action-Sentinel / Kali-Toolkeeper** — agent workflows and tooling
+- **Agri-Agent / Ops-Agent / Elder-Sentinel / Kali-Toolkeeper** — agent workflows and tooling
 - **[HowToLiveBetter](https://github.com/Ezra-Zhao/HowToLiveBetter)** — a practical life guide I'm adapting for my kids, in US × China editions
 
 ---
