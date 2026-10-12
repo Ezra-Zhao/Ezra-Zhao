@@ -2,7 +2,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=Ezra-Zhao&color=0e75b6&style=flat)
 
-**Data Center Infrastructure Engineer @ Asiacom (PMP)** — San Jose, CA
+**Senior TPM · Data Center Infrastructure & Applied AI** — San Jose, CA
 
 I build applied AI systems that ship: LLM agents for hardware diagnostics, IT operations and customer service, plus computer-vision systems for safety and agriculture.
 
