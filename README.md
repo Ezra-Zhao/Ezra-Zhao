@@ -2,7 +2,7 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=Ezra-Zhao&color=0e75b6&style=flat)
 
-**Senior TPM · Data Center Infrastructure & Applied AI** — San Jose, CA
+**Data Center Infrastructure Engineer @ Asiacom (PMP)** — San Jose, CA
 
 I build applied AI systems that ship: LLM agents for hardware diagnostics, IT operations and customer service, plus computer-vision systems for safety and agriculture.
 
@@ -42,7 +42,7 @@ Every sponsor is listed below (opt out anytime).
 ## Shipped before GitHub
 
 - **Kindergarten safety** — real-time emotion recognition to flag distress and prevent incidents
-- **Correctional facilities** — face + pose recognition with action counting for security monitoring
+- **Elderly care monitoring** — face + pose recognition with action counting for safety monitoring in senior living facilities
 - **Agriculture** — automated bloom/flower counting and field reporting for growers
 
 ## Weekly columns
