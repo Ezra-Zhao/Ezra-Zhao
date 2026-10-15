@@ -8,6 +8,8 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 
 🎬 YouTube: [@ezra-zhao](https://www.youtube.com/@ezra-zhao) — project explainers in 中文 / English / Español / Português / हिन्दी
 
+📺 Also on: [X / Twitter](https://x.com/EzraZhao64144) · [TikTok](https://www.tiktok.com/@ezrazhao) · [dev.to](https://dev.to/ezrazhao) — the same work in short-form video and written editions
+
 ## ❤️ Support my work
 
 Everything I publish — code, cheatsheets, hymns, study notes — is free and open source.
@@ -44,6 +46,20 @@ Every sponsor is listed below (opt out anytime).
 - **Kindergarten safety** — real-time emotion recognition to flag distress and prevent incidents
 - **Elderly care monitoring** — face + pose recognition with action counting for safety monitoring in senior living facilities
 - **Agriculture** — automated bloom/flower counting and field reporting for growers
+
+## 📚 Cheatsheets — one page each, every command tested
+
+- **[ffmpeg-cheatsheet](https://github.com/Ezra-Zhao/ffmpeg-cheatsheet)** — 28 FFmpeg commands: transcode, compress, extract audio, GIF, stream
+- **[git-cheatsheet](https://github.com/Ezra-Zhao/git-cheatsheet)** — 30 Git commands: daily work + a rescue kit (reflog, bisect)
+- **[docker-cheatsheet](https://github.com/Ezra-Zhao/docker-cheatsheet)** — 28 Docker commands + runnable Dockerfile & Compose examples
+- **[curl-cheatsheet](https://github.com/Ezra-Zhao/curl-cheatsheet)** — 29 curl commands for API debugging
+- **[regex-cheatsheet](https://github.com/Ezra-Zhao/regex-cheatsheet)** — 30 patterns, engine differences flagged
+- **[jq-cheatsheet](https://github.com/Ezra-Zhao/jq-cheatsheet)** — 30 jq filters, all executed against real JSON
+- **[terminal-superpowers-cheatsheet](https://github.com/Ezra-Zhao/terminal-superpowers-cheatsheet)** — 14 modern tools replacing cd / ls / cat / grep
+- **[adobe-free-alternatives-cheatsheet](https://github.com/Ezra-Zhao/adobe-free-alternatives-cheatsheet)** — 16 free alternatives to paid creative software
+- **[desubscribe-cheatsheet](https://github.com/Ezra-Zhao/desubscribe-cheatsheet)** — 10 subscription swaps, ≈ $1,260/year saved
+
+Every cheatsheet ships with READMEs in 中文 / Español / Português.
 
 ## Weekly columns
 
