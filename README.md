@@ -8,12 +8,21 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 
 🎬 YouTube: [@ezra-zhao](https://www.youtube.com/@ezra-zhao) — project explainers in 中文 / English / Español / Português / हिन्दी
 
-📺 Also on: [X / Twitter](https://x.com/EzraZhao64144) · [TikTok](https://www.tiktok.com/@ezrazhao) · [dev.to](https://dev.to/ezrazhao) — the same work in short-form video and written editions
+## 🌐 Everywhere
+
+**Start here — everything on one page: [Content Hub](https://ezra-zhao.github.io/ezra-content-hub/)**
+
+- 🎬 [YouTube @ezra-zhao](https://www.youtube.com/@ezra-zhao) — long-form series: Bible animation, car care, sermons & courses
+- ⚡ [Ezra Daily 每日速报](https://www.youtube.com/channel/UCsxU-VYZH9hMw1HVaPaS6KA) — daily shows: U.S. Hundred Indicators Daily, markets, news briefings, devotionals
+- 🐦 [X @EzraZhao64144](https://x.com/EzraZhao64144) — daily flash briefings & cards
+- 💼 [LinkedIn](https://www.linkedin.com/in/guangyi-z-43461557) · ✍️ [dev.to](https://dev.to/ezrazhao)
+- 📘 [Facebook](https://facebook.com/ezra.zhao) · 📸 [Instagram](https://www.instagram.com/ezr3257) · 🎵 [TikTok](https://www.tiktok.com/@ezrazhao)
+- 🛍️ [Etsy — CodeAndPsalms](https://www.etsy.com/shop/CodeAndPsalms) · [Gumroad](https://ezraflow28.gumroad.com)
 
 ## ❤️ Support my work
 
 Everything I publish — code, cheatsheets, hymns, study notes — is free and open source.
-If it helped you, consider [sponsoring me](https://github.com/sponsors/Ezra-Zhao) ☕
+If it helped you, consider [sponsoring me](https://github.com/sponsors/Ezra-Zhao) ☕ — or via [Ko-fi](https://ko-fi.com/ezra777zhao). Templates & workbooks I use are on [Gumroad](https://ezraflow28.gumroad.com).
 
 Your sponsorship goes to server & API costs and more hours of free, clean-room work.
 Every sponsor is listed below (opt out anytime).
