@@ -21,7 +21,7 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 
 ## ❤️ Support my work
 
-Everything I publish — code, cheatsheets, hymns, study notes — is free and open source.
+Everything I publish — code, cheatsheets, study notes — is free and open source. My hymns are free to listen to.
 If it helped you, consider [sponsoring me](https://github.com/sponsors/Ezra-Zhao) ☕ — or via [Ko-fi](https://ko-fi.com/ezra777zhao). Templates & workbooks I use are on [Gumroad](https://ezraflow28.gumroad.com).
 
 Your sponsorship goes to server & API costs and more hours of free, clean-room work.
