@@ -18,6 +18,7 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 - 💼 [LinkedIn](https://www.linkedin.com/in/guangyi-z-43461557) · ✍️ [dev.to](https://dev.to/ezrazhao)
 - 📘 [Facebook](https://facebook.com/ezra.zhao) · 📸 [Instagram](https://www.instagram.com/ezr3257) · 🎵 [TikTok](https://www.tiktok.com/@ezrazhao)
 - 🛍️ [Etsy — CodeAndPsalms](https://www.etsy.com/shop/CodeAndPsalms) · [Gumroad](https://ezraflow28.gumroad.com)
+- 📣 [Telegram](https://t.me/EzraZhao777) — updates from every platform, synced to one channel
 
 ## ❤️ Support my work
 
