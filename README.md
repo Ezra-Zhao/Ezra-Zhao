@@ -19,70 +19,35 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 - 📘 [Facebook](https://facebook.com/ezra.zhao) · 📸 [Instagram](https://www.instagram.com/ezr3257) · 🎵 [TikTok](https://www.tiktok.com/@ezrazhao)
 - 🛍️ [Etsy — CodeAndPsalms](https://www.etsy.com/shop/CodeAndPsalms) · [Gumroad](https://ezraflow28.gumroad.com)
 - 📣 [Telegram](https://t.me/EzraZhao777) — updates from every platform, synced to one channel
+- 📈 Koyfin (market data I use): https://www.koyfin.com/affiliate/koyfin/?via=guangyi
 
 ## ❤️ Support my work
 
 Everything I publish — code, cheatsheets, study notes — is free and open source. My hymns are free to listen to.
 If it helped you, consider [sponsoring me](https://github.com/sponsors/Ezra-Zhao) ☕ — or via [Ko-fi](https://ko-fi.com/ezra777zhao). Templates & workbooks I use are on [Gumroad](https://ezraflow28.gumroad.com).
-
 Your sponsorship goes to server & API costs and more hours of free, clean-room work.
 Every sponsor is listed below (opt out anytime).
 
 ### Supporters
-
 <!-- sponsors will be listed here -->
 
 ## Stats
-
 ![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezra-Zhao&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra-Zhao&layout=compact&theme=default)
 ![streak](https://streak-stats.demolab.com?user=Ezra-Zhao&theme=default)
 
 ## Stack
-
-![stack](https://skillicons.dev/icons?i=py,go,docker,kubernetes,linux,prometheus,grafana,pytorch,git,githubactions,ansible,terraform,n8n,vscode)
+![stack](https://skillicons.dev/icons?i=py,go,docker,kubernetes,linux,prometheus,grafana,pytorch,git,github,vscode,md)
 
 ## Featured projects
-
-- **[AI-Node-Sentinel](https://github.com/Ezra-Zhao/AI-Node-Sentinel)** — LLM agent for post-silicon hardware diagnostics: GPU XID / PCIe error triage
-- **[Wiper-Service-Agent](https://github.com/Ezra-Zhao/Wiper-Service-Agent)** — WhatsApp customer-service agent for a real wiper-blade business: 5 languages, deterministic pricing, live on Render
-- **[Go-Diagnoser-Engine](https://github.com/Ezra-Zhao/Go-Diagnoser-Engine)** — Go microservice (REST API + worker pool) for high-concurrency diagnostics
-- **[Emotion-Guard](https://github.com/Ezra-Zhao/Emotion-Guard)** — facial emotion recognition for classroom safety monitoring
-- **[Bloom-Counter](https://github.com/Ezra-Zhao/Bloom-Counter)** — flower/bloom counting for agricultural yield reporting
-- **[Web-Vuln-Scanner](https://github.com/Ezra-Zhao/Web-Vuln-Scanner)** — ethics-first web vulnerability scanner with a full test suite
+- **[AI-Node-Sentinel](https://github.com/Ezra-Zhao/AI-Node-Sentinel)** — LLM agent for post-silicon hardware and system diagnostics, with model-agnostic tool calling
+- **[Wiper-Service-Agent](https://github.com/Ezra-Zhao/Wiper-Service-Agent)** — WhatsApp customer-service agent for a small services business
+- **[Go-Diagnoser-Engine](https://github.com/Ezra-Zhao/Go-Diagnoser-Engine)** — Go microservice (REST + NATS) for multi-agent diagnosis and workflow automation
+- **[Emotion-Guard](https://github.com/Ezra-Zhao/Emotion-Guard)** — facial emotion recognition for classroom child-safety
+- **[Bloom-Counter](https://github.com/Ezra-Zhao/Bloom-Counter)** — flower/bloom counting for agriculture
+- **[Web-Vuln-Scanner](https://github.com/Ezra-Zhao/Web-Vuln-Scanner)** — ethics-first web vulnerability scanner
 
 ## Shipped before GitHub
-
 - **Kindergarten safety** — real-time emotion recognition to flag distress and prevent incidents
-- **Elderly care monitoring** — face + pose recognition with action counting for safety monitoring in senior living facilities
+- **Elderly care monitoring** — face + pose recognition with action counting for safety monitoring in care homes
 - **Agriculture** — automated bloom/flower counting and field reporting for growers
-
-## 📚 Cheatsheets — one page each, every command tested
-
-- **[ffmpeg-cheatsheet](https://github.com/Ezra-Zhao/ffmpeg-cheatsheet)** — 28 FFmpeg commands: transcode, compress, extract audio, GIF, stream
-- **[git-cheatsheet](https://github.com/Ezra-Zhao/git-cheatsheet)** — 30 Git commands: daily work + a rescue kit (reflog, bisect)
-- **[docker-cheatsheet](https://github.com/Ezra-Zhao/docker-cheatsheet)** — 28 Docker commands + runnable Dockerfile & Compose examples
-- **[curl-cheatsheet](https://github.com/Ezra-Zhao/curl-cheatsheet)** — 29 curl commands for API debugging
-- **[regex-cheatsheet](https://github.com/Ezra-Zhao/regex-cheatsheet)** — 30 patterns, engine differences flagged
-- **[jq-cheatsheet](https://github.com/Ezra-Zhao/jq-cheatsheet)** — 30 jq filters, all executed against real JSON
-- **[terminal-superpowers-cheatsheet](https://github.com/Ezra-Zhao/terminal-superpowers-cheatsheet)** — 14 modern tools replacing cd / ls / cat / grep
-- **[adobe-free-alternatives-cheatsheet](https://github.com/Ezra-Zhao/adobe-free-alternatives-cheatsheet)** — 16 free alternatives to paid creative software
-- **[desubscribe-cheatsheet](https://github.com/Ezra-Zhao/desubscribe-cheatsheet)** — 10 subscription swaps, ≈ $1,260/year saved
-
-Every cheatsheet ships with READMEs in 中文 / Español / Português.
-
-## Weekly columns
-
-- **[Industry-Paper-Daily](https://github.com/Ezra-Zhao/Industry-Paper-Daily)** — one industry paper a week, notes in plain words
-- **[Earnings-Daily](https://github.com/Ezra-Zhao/Earnings-Daily)** — one earnings report a week, facts and how to read them
-- **[Cooling-Tech-Research](https://github.com/Ezra-Zhao/Cooling-Tech-Research)** — liquid/air cooling tech research notes
-- **[Sermon-Sharing](https://github.com/Ezra-Zhao/Sermon-Sharing)** — one sermon manuscript a week (Chinese)
-
-## Also on my bench
-
-- **Agri-Agent / Ops-Agent / Elder-Sentinel / Kali-Toolkeeper** — agent workflows and tooling
-- **[HowToLiveBetter](https://github.com/Ezra-Zhao/HowToLiveBetter)** — a practical life guide I'm adapting for my kids, in US × China editions
-
----
-
-All code in my repositories is my own clean-room work, written for learning and research. It contains no client information or resources.
