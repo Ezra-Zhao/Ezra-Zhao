@@ -12,7 +12,7 @@ Off the clock, I preach, write, and compose: author of Bible-study and expositor
 
 ## 🌐 Everywhere
 
-**Start here — everything on one page: [Content Hub](https://ezra-zhao.github.io/ezra-content-hub/)**
+**Start here — everything on one page: [Content Hub](https://ezrazhao.com/)**
 
 - 🎬 [YouTube @ezra-zhao](https://www.youtube.com/@ezra-zhao) — long-form series: Bible animation, car care, sermons & courses
 - ⚡ [Ezra Daily 每日速报](https://www.youtube.com/channel/UCsxU-VYZH9hMw1HVaPaS6KA) — daily shows: U.S. Hundred Indicators Daily, markets, news briefings, devotionals
