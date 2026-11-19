@@ -6,6 +6,8 @@
 
 I build applied AI systems that ship: LLM agents for hardware diagnostics, IT operations and customer service, plus computer-vision systems for safety and agriculture.
 
+Off the clock, I preach, write, and compose: author of Bible-study and expository books, writer of original Chinese hymns released on streaming platforms, host of a sermon podcast and daily devotionals, and publisher of ongoing study notes on U.S. law, U.S. tax, and healthcare in America, along with picture books — all in multiple languages.
+
 🎬 YouTube: [@ezra-zhao](https://www.youtube.com/@ezra-zhao) — project explainers in 中文 / English / Español / Português / हिन्दी
 
 ## 🌐 Everywhere
