@@ -20,6 +20,7 @@ I build applied AI systems that ship: LLM agents for hardware diagnostics, IT op
 - 🛍️ [Etsy — CodeAndPsalms](https://www.etsy.com/shop/CodeAndPsalms) · [Gumroad](https://ezraflow28.gumroad.com)
 - 📣 [Telegram](https://t.me/EzraZhao777) — updates from every platform, synced to one channel
 - 📈 Koyfin (market data I use): https://www.koyfin.com/affiliate/koyfin/?via=guangyi
+- Seeking Alpha Premium: https://link.seekingalpha.com/5MCT31T/4G6SHH/ (affiliate link)
 
 ## ❤️ Support my work
 
